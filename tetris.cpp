@@ -1,6 +1,7 @@
 ﻿#include<iostream>
 #include<windows.h>
 
+
 using namespace std;
 
 void gotoxy(int x, int y)   //콘솔 커서 제어  
